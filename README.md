@@ -21,11 +21,12 @@
           </div>
     </div>
     <div align= "center">
+    /*
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://bocando.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://bocando.tistory.com"> </a>
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:stuctu99@gmail.com"> </a>
          <a href=https://www.notion.so/finalcoma/b8411941fda6454da3cdce7b40757be1?v=7bd37389cd6e4b328f4c4e5a29d90f32> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://www.notion.so/finalcoma/b8411941fda6454da3cdce7b40757be1?v=7bd37389cd6e4b328f4c4e5a29d90f32"> </a>
-          </div>  <br> 
+          </div>  <br>*/ 
     <div align= "center">  </div> 
     </div>
 
