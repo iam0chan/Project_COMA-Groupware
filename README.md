@@ -20,6 +20,7 @@
           <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
           </div>
     </div>
+    /*
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br>
     <div align= "center"> <a href=""> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://bocando.tistory.com"> </a>
@@ -28,4 +29,5 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+    */
 
